@@ -42,6 +42,4 @@ if st.button("Generate Image"):
 
 # Footer with credits
 st.markdown("""
-**Note**: This application uses a lightweight configuration of the Stable Diffusion model for faster performance. 
-For more details, visit the [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5) page.
-""")
+**Note**: This application uses a lightweight configuration of the Stable Diffusion model for faster performance.""")
